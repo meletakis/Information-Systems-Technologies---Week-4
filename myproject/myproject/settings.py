@@ -104,6 +104,3 @@ REGISTRATION_AUTO_LOGIN = True
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 465
 EMAIL_USE_TLS = True
-
-EMAIL_HOST_USER = 'meletakis@gmail.com'
-EMAIL_HOST_PASSWORD = '#m3lt54mgm@ilm3l3'
